@@ -17,14 +17,6 @@ Projede **Abstract Factory**, **Prototype** ve **Singleton** tasarım desenleri 
 
 ---
 
-## 📸 Uygulama Görseli
-
-<p align="center">
-  <img src="https://github.com/zeynep-tkn/projeadi/src/main/uygulama-gorunumu.png" alt="Uygulama Ekranı" width="600"/>
-</p>
-
----
-
 ## 🛠️ Kullanılan Desenler ve Açıklamaları
 
 ### 1. 🏭 Abstract Factory
